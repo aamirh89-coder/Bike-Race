@@ -1,0 +1,6 @@
+{
+  "name": "Apex Velocity: Bike Racing",
+  "description": "A high-performance, realistic pseudo-3D bike racing game with HD graphics, dynamic AI, and immersive speed effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
